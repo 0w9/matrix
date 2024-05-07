@@ -21,3 +21,4 @@ An ingredient can be connected to a recipe.
 - [X] Basic classes
 - [ ] Style the text to look well
 - [ ] Color each line in it's ingredient
+- [ ] Make this a NextJS app
